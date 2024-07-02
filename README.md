@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushagra0910
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DSA and WEb Devolopment
+- 🌱 I’m currently learning DSA and Web Devolopment
 
 
 <!---
